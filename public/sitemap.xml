@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ganti https://example.com dengan domain produksi setelah website dipublikasikan. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/buat-cv</loc></url>
+  <url><loc>https://example.com/template-cv</loc></url>
+  <url><loc>https://example.com/surat-lamaran</loc></url>
+  <url><loc>https://example.com/panduan</loc></url>
+  <url><loc>https://example.com/contoh-cv</loc></url>
+  <url><loc>https://example.com/tentang</loc></url>
+  <url><loc>https://example.com/kontak</loc></url>
+  <url><loc>https://example.com/kebijakan-privasi</loc></url>
+  <url><loc>https://example.com/ketentuan-layanan</loc></url>
+</urlset>

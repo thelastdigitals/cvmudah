@@ -1,0 +1,7 @@
+# Semua halaman publik boleh diindeks. Tambahkan baris Disallow jika kelak ada
+# area yang tidak ingin diindeks. robots.txt bukan mekanisme keamanan.
+User-agent: *
+Allow: /
+
+# Ganti dengan domain produksi setelah website dipublikasikan
+Sitemap: https://example.com/sitemap.xml
